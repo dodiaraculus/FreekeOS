@@ -4,11 +4,11 @@ A simple operating system made in c and Assembly.
 ###Requirements
 Qemu
 Virtualbox
-Roxxiso
+Xorriso
 Grub
 Gcc
 Nasm
 ####Install everything
-sudo apt-get install qemu roxxiso virtualbox grub gcc nasm
+sudo apt-get install qemu xorriso virtualbox grub gcc nasm
 ### Using build.sh
 1. sh build.sh
